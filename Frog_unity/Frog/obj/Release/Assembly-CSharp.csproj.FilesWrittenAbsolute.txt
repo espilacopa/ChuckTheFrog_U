@@ -1,0 +1,14 @@
+/Users/Nelson/Projects/Frog_unity/Frog/Temp/bin/Release/UnityEngine.dll
+/Users/Nelson/Projects/Frog_unity/Frog/Temp/bin/Release/UnityEditor.dll
+/Users/Nelson/Projects/Frog_unity/Frog/Temp/bin/Release/UnityEngine.UI.dll
+/Users/Nelson/Projects/Frog_unity/Frog/Temp/bin/Release/UnityEngine.Networking.dll
+/Users/Nelson/Projects/Frog_unity/Frog/Temp/bin/Release/UnityEditor.iOS.Extensions.Xcode.dll
+/Users/Nelson/Projects/Frog_unity/Frog/Temp/bin/Release/Mono.Cecil.dll
+/Users/Nelson/Projects/Frog_unity/Frog/Temp/bin/Release/Unity.SerializationLogic.dll
+/Users/Nelson/Projects/Frog_unity/Frog/Temp/bin/Release/Unity.DataContract.dll
+/Users/Nelson/Projects/Frog_unity/Frog/Temp/bin/Release/ICSharpCode.NRefactory.dll
+/Users/Nelson/Projects/Frog_unity/Frog/Temp/bin/Release/Unity.UNetWeaver.dll
+/Users/Nelson/Projects/Frog_unity/Frog/Temp/bin/Release/Unity.UNetWeaver.dll.mdb
+/Users/Nelson/Projects/Frog_unity/Frog/Temp/bin/Release/Unity.CecilTools.dll
+/Users/Nelson/Projects/Frog_unity/Frog/Temp/bin/Release/Mono.Cecil.Pdb.dll
+/Users/Nelson/Projects/Frog_unity/Frog/Temp/bin/Release/Mono.Cecil.Mdb.dll

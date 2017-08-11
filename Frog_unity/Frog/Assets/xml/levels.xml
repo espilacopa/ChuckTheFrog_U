@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<levels>
+	<level id="0" nbFlies="30" timer="40" locked="false">
+		<tabEnemies>
+			<enemie id="1" nb="3"/>
+		</tabEnemies>
+	</level>
+	<level id="1" nbFlies="40" timer="30" locked="true">
+		<tabEnemies>
+			<enemie id="1" nb="2"/>
+		</tabEnemies>
+	</level>
+	
+	<level id="2" nbFlies="45" timer="20" locked="true">
+		<tabEnemies>
+			<enemie id="1" nb="3"/>
+		</tabEnemies>
+	</level>
+</levels>

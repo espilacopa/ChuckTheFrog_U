@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Game>
+	<Level id="0" timer="10" img="frog_level_001" >
+		<Def><![CDATA[Départ : définition]]></Def>
+		<Flies>
+			<FlyDef nbFly="2" type="Fly" velo="0.1" angl="30" bonus="0"  >
+				<Velo>0.1</Velo>
+				<Angl>30</Angl> 
+			</FlyDef>
+			<FlyDef nbFly="1" type="Fly" velo="0.1" angl="30" bonus="1.4"  >
+				<GetComponent>
+					<CompoDef param="Animator" id="modelB" type="bool" val="True" />
+				</GetComponent>
+			</FlyDef>
+		</Flies>
+		<Goal>
+			<Def>Goal description</Def>
+			<Star id="0" time="0" />
+			<Star id="1" time ="2"/>
+			<Star id="2" time ="3"/>
+		</Goal>
+		<Waves>
+			<Wave id="1" time = "8">
+				<Enemies>
+					<Enemy nbEnemie="2" type="Bee"/>
+				</Enemies>
+			</Wave>
+		</Waves>
+		
+	</Level>
+	<Level id="1" timer="20" img="frog_level_002" >
+		<Def><![CDATA[Départ : définition]]></Def>
+		<Flies>
+			<FlyDef nbFly="8" type="Fly" velo="0.1" angl="30" bonus="0"  >
+				<Velo>0.1</Velo>
+				<Angl>30</Angl> 
+			</FlyDef>
+			<FlyDef nbFly="2" type="Fly" velo="0.1" angl="30" bonus="1.4"  >
+				<GetComponent>
+					<CompoDef param="Animator" id="modelB" type="bool" val="True" />
+				</GetComponent>
+			</FlyDef>
+		</Flies>
+		<Goal>
+			<Def>Goal description</Def>
+			<Star id="0" time="0" />
+			<Star id="1" time ="2"/>
+			<Star id="2" time ="3"/>
+		</Goal>
+		<Waves>
+			<Wave id="1" time = "8">
+				<Enemies>
+					<Enemy nbEnemie="2" type="Bee"/>
+				</Enemies>
+			</Wave>
+			<Wave id="2" time = "16">
+				<Enemies>
+					<Enemy nbEnemie="3" type="Bee"/>
+				</Enemies>
+			</Wave>
+		</Waves>
+		
+	</Level>
+	<Level id="2" timer="30" img="frog_level_001">
+		<Def><![CDATA[Départ : définition]]></Def>
+		<Flies>
+			<FlyDef nbFly="8" type="Fly" velo="0.1" angl="30" bonus="0"  >
+				<Velo>0.1</Velo>
+				<Angl>30</Angl> 
+			</FlyDef>
+			<FlyDef nbFly="2" type="Fly" velo="0.1" angl="30" bonus="1.4"  >
+				<GetComponent>
+					<CompoDef param="Animator" id="modelB" type="bool" val="True" />
+				</GetComponent>
+			</FlyDef>
+		</Flies>
+		<Goal>
+			<Def>Goal description</Def>
+			<Star id="0" time="0" />
+			<Star id="1" time ="2"/>
+			<Star id="2" time ="3"/>
+		</Goal>
+		<Waves>
+			<Wave id="1" time = "8">
+				<Enemies>
+					<Enemy nbEnemie="2" type="Bee"/>
+				</Enemies>
+			</Wave>
+			<Wave id="2" time = "16">
+				<Enemies>
+					<Enemy nbEnemie="3" type="Bee"/>
+				</Enemies>
+			</Wave>
+		</Waves>
+		
+	</Level>
+	<Level id="3" timer="50" img="frog_level_002">
+		<Def><![CDATA[Départ : définition]]></Def>
+		<Flies>
+			<FlyDef nbFly="8" type="Fly" velo="0.1" angl="30" bonus="0"  >
+				<Velo>0.1</Velo>
+				<Angl>30</Angl> 
+			</FlyDef>
+			<FlyDef nbFly="2" type="Fly" velo="0.1" angl="30" bonus="1.4"  >
+				<GetComponent>
+					<CompoDef param="Animator" id="modelB" type="bool" val="True" />
+				</GetComponent>
+			</FlyDef>
+		</Flies>
+		<Goal>
+			<Def>Goal description</Def>
+			<Star id="0" time="0" />
+			<Star id="1" time ="2"/>
+			<Star id="2" time ="3"/>
+		</Goal>
+		<Waves>
+			<Wave id="1" time = "8">
+				<Enemies>
+					<Enemy nbEnemie="2" type="Bee"/>
+				</Enemies>
+			</Wave>
+			<Wave id="2" time = "16">
+				<Enemies>
+					<Enemy nbEnemie="3" type="Bee"/>
+				</Enemies>
+			</Wave>
+		</Waves>
+		
+	</Level>
+</Game>
